@@ -17,7 +17,7 @@
 }
 .p-fixed-content-project-info{
     max-height: 10.3em;
-    overflow: hidden;
+    overflow: auto;
 }
 .services_area img{
     border: 1px solid rgba(0, 0, 0, .125);
