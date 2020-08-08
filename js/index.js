@@ -116,8 +116,7 @@ function calculateMyAgeNew() {
   $("#ageInYear").html(age.years);
   $("#ageInMonth").html(age.months);
   $("#ageInDay").html(age.days);
-
-  //return ageString;
+  return ageString;
 }
 
 function calculateMyExperience() {
